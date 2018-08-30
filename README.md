@@ -1,3 +1,3 @@
 # AM2315_test
-Temp &amp; Humidity sensor test
-Adafruit 
+Adafruit Temp &amp; Humidity sensor test
+
